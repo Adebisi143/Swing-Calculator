@@ -1,5 +1,5 @@
 ### Swing-Calculator
-### Name: Abdulrahman Shuaib Yahya
-### Matric no: U23ST1031
-### Github acc @AbdoolSY
-### Calculator repo: https://github.com/AbdoolSY/Swing-Calculator/tree/main
+### Name: Adebisi Abdulsalam Adewale
+### Matric no: U23ME1017
+### Github acc @Adebisi143
+### Calculator repo: https://github.com/Adebisi143/Swing-Calculator/tree/main
